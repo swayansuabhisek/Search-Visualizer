@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import LinearParent from './LinearParent';
 import BinaryParent from './BinaryParent';
-
+ 
 import './Styles.css';
 
 class Search extends Component {
